@@ -1,15 +1,7 @@
-# Basic Sample Hardhat Project
+# This project is submitted to polygon x encode beginners track
+ The project is deployed to polygon mumbai testnet
+ 
+ 
+Hosted site link: https://nft-minter-website.vercel.app/
 
-This project demonstrates a basic Hardhat use case. It comes with a sample contract, a test for that contract, a sample script that deploys that contract, and an example of a task implementation, which simply lists the available accounts.
-
-Try running some of the following tasks:
-
-```shell
-npx hardhat accounts
-npx hardhat compile
-npx hardhat clean
-npx hardhat test
-npx hardhat node
-node scripts/sample-script.js
-npx hardhat help
-```
+verfied contract address on polygonscan mumbai: 0x8E2AE41737682293D93d4874Aaa15233aac0c37a
