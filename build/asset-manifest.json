@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/static/css/main.445a335b.css",
+    "main.js": "/static/js/main.c262f73f.js",
+    "static/media/newkakbg.gif": "/static/media/newkakbg.8602d52ad1398f443f0f.gif",
+    "index.html": "/index.html",
+    "main.445a335b.css.map": "/static/css/main.445a335b.css.map",
+    "main.c262f73f.js.map": "/static/js/main.c262f73f.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.445a335b.css",
+    "static/js/main.c262f73f.js"
+  ]
+}
